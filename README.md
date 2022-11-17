@@ -1,3 +1,13 @@
+middleware hasznalat /w breeeze
+ez fent van mint a sziten
+
+a masik : 
+    lara-auth-form SANCTUM (adatbaziskiszolgalo szerver, nincs frontend view)
+
+    Validator
+    Auth
+    Models (Blog or Post idk)
+    Resources\
 
 
 ## About Laravel
